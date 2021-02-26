@@ -142,6 +142,11 @@ aside h3 {
 	padding-bottom: .25em;
 }
 
+aside h3 div{
+	font-size: 75%;
+	padding-top: 70px;
+}
+
 aside img {
 	padding-bottom: 1em;
 }
@@ -151,8 +156,6 @@ aside h2 {
 }
 
 article {
-	border-bottom: 2px solid #931420;
-	border-top: 2px solid #931420;
 	padding-bottom: 10px;
 }
 
@@ -166,9 +169,14 @@ article img {
 
 article h2 {
 	padding-top: 10px;
+	color: black;
 }
 
 article h3 {
 	font-size: 105%;
 	padding-bottom: .25em;
+}
+
+section h1 {
+	color: maroon;
 }
